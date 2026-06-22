@@ -1,14 +1,5 @@
 [
   {
-    "appId": 1245620,
-    "name": "Elden Ring",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1245620.lua",
-    "manifestUrls": [
-      "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/manifests/1245620_1.manifest"
-    ]
-  },
-  {
     "appId": 3241660,
     "name": "R.E.P.O.",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/header.jpg",
@@ -16,5 +7,82 @@
     "manifestUrls": [
       "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/manifests/3241660_1.manifest"
     ]
+  },
+  {
+    "appId": 1086940,
+    "name": "Baldur's Gate 3",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1086940.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1091500,
+    "name": "Cyberpunk 2077",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1091500.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 271590,
+    "name": "Grand Theft Auto V",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/271590.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1174180,
+    "name": "Red Dead Redemption 2",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1174180.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1245620,
+    "name": "Elden Ring",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1245620.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 2358720,
+    "name": "Black Myth: Wukong",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2358720.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 391220,
+    "name": "Rise of the Tomb Raider",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/391220.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 292030,
+    "name": "The Witcher 3: Wild Hunt",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/292030.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1811260,
+    "name": "EA SPORTS FC 24",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1811260/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1811260.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1190460,
+    "name": "Death Stranding",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190460/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1190460.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1716740,
+    "name": "Starfield",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1716740.lua",
+    "manifestUrls": []
   }
 ]
