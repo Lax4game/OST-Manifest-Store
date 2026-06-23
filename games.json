@@ -9,10 +9,24 @@
     ]
   },
   {
+    "appId": 3892270,
+    "name": "Gamble With Your Friends",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1778274309",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3892270.lua",
+    "manifestUrls": []
+  },
+  {
     "appId": 1086940,
     "name": "Baldur's Gate 3",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/header.jpg",
     "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1086940.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1091500,
+    "name": "Cyberpunk 2077",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1091500.lua",
     "manifestUrls": []
   },
   {
@@ -79,24 +93,276 @@
     "manifestUrls": []
   },
   {
+    "appId": 359550,
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/359550.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 230410,
+    "name": "Warframe",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/230410.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 252490,
+    "name": "Rust",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/252490.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 4000,
+    "name": "Garry's Mod",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/4000.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 892970,
+    "name": "Valheim",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/892970.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1172470,
+    "name": "Apex Legends",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1172470.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1938090,
+    "name": "Call of Duty",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938090/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1938090.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 294100,
+    "name": "RimWorld",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/294100.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 413150,
+    "name": "Stardew Valley",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/413150.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 2195250,
+    "name": "EA SPORTS FC 25",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2195250/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2195250.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1248130,
+    "name": "Farming Simulator 22",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1248130/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1248130.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1097150,
+    "name": "Fall Guys",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097150/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1097150.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 381210,
+    "name": "Dead by Daylight",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/381210.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 236390,
+    "name": "War Thunder",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236390/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/236390.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 251570,
+    "name": "7 Days to Die",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/251570.lua",
+    "manifestUrls": []
+  },
+  {
     "appId": 1623730,
     "name": "Palworld",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1780702171",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/header.jpg",
     "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1623730.lua",
     "manifestUrls": []
   },
   {
-    "appId": 3892270,
-    "name": "Gamble With Your Friends",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1778274309",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3892270.lua",
+    "appId": 374320,
+    "name": "DARK SOULS III",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/374320.lua",
     "manifestUrls": []
   },
   {
-    "appId": 1091500,
-    "name": "Cyberpunk 2077",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1769690377",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1091500.lua",
+    "appId": 1142710,
+    "name": "Total War: WARHAMMER III",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1142710.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 281990,
+    "name": "Stellaris",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/281990.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 105600,
+    "name": "Terraria",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/105600.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 311210,
+    "name": "Call of Duty: Black Ops III",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/311210.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 814380,
+    "name": "Sekiro: Shadows Die Twice",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/814380.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1888160,
+    "name": "ARMORED CORE VI FIRES OF RUBICON",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1888160.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 489830,
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/489830.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 227300,
+    "name": "Euro Truck Simulator 2",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/227300.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 377160,
+    "name": "Fallout 4",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/377160.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1222670,
+    "name": "The Sims 4",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1222670.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1966720,
+    "name": "Lethal Company",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1966720.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1817070,
+    "name": "Marvel's Spider-Man Remastered",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1817070.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1817190,
+    "name": "Marvel’s Spider-Man: Miles Morales",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1817190.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 2050650,
+    "name": "Resident Evil 4",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2050650.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1544020,
+    "name": "Call of Duty: Modern Warfare II",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1544020/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1544020.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 552520,
+    "name": "Far Cry 5",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552520/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/552520.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 236850,
+    "name": "Europa Universalis IV",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236850/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/236850.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1085660,
+    "name": "Destiny 2",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1085660.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1240440,
+    "name": "Halo Infinite",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1240440/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1240440.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 1151640,
+    "name": "Horizon Zero Dawn Complete Edition",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1151640.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 2420110,
+    "name": "Horizon Forbidden West Complete Edition",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2420110.lua",
+    "manifestUrls": []
+  },
+  {
+    "appId": 2215430,
+    "name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2215430.lua",
     "manifestUrls": []
   }
 ]
