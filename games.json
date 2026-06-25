@@ -385,5 +385,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489700/header.jpg?t=1776466244",
     "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3489700.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 203160,
+    "name": "Tomb Raider Game of the Year",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/203160/9e67774e97cdd155f287146e62611eb445514ac6/header.jpg?t=1765220424",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/203160.lua",
+    "manifestUrls": []
   }
 ]
