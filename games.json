@@ -406,5 +406,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1781703931",
     "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1144200.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 4121170,
+    "name": "Fears to Fathom® - Scratch Creek",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4121170/803663dce78da494e9d061cf6652ade566b96331/header.jpg?t=1781141362",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/4121170.lua",
+    "manifestUrls": []
   }
 ]
