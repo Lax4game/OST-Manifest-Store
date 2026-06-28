@@ -427,5 +427,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/744a52b2f79bb03825dea2c0fcfa29e330bb2f1e/header_alt_assets_1.jpg?t=1782238812",
     "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2483190.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1787090,
+    "name": "MyDockFinder",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1787090/header.jpg?t=1751263441",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1787090.lua",
+    "manifestUrls": []
   }
 ]
