@@ -1,5 +1,12 @@
 [
   {
+    "appId": 2143680,
+    "name": "Noctuary",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2143680/header.jpg",
+    "luaUrl": "/lua/2143680.lua",
+    "manifestUrls": []
+  },
+  {
     "appId": 1934080,
     "name": "Floating Life2",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934080/header.jpg",
