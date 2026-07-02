@@ -448,5 +448,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
     "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/431960.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 3017806,
+    "name": "Game 3017806",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017806/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3017806.lua",
+    "manifestUrls": []
   }
 ]
