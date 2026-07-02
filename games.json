@@ -462,5 +462,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/550/header.jpg?t=1772742214",
     "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/550.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 3017860,
+    "name": "DOOM: The Dark Ages",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3017860/header.jpg?t=1780932051",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3017860.lua",
+    "manifestUrls": []
   }
 ]
