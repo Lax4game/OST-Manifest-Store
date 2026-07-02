@@ -1,5 +1,12 @@
 [
   {
+    "appId": 480,
+    "name": "FINAL TEST GAME",
+    "cover": "",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/480.lua",
+    "manifestUrls": []
+  },
+  {
     "appId": 1598730,
     "name": "Shanhe",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1598730/header.jpg",
