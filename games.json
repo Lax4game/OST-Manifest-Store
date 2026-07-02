@@ -1,5 +1,12 @@
 [
   {
+    "appId": 3472040,
+    "name": "NBA 2K26",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3472040/header.jpg",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3472040.lua",
+    "manifestUrls": []
+  },
+  {
     "appId": 785480,
     "name": "Positive Test Game",
     "cover": "",
