@@ -987,5 +987,11 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
     "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/4704690.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 220240,
+    "name": "Far Cry 3",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg?t=1781619366",
+    "lua": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/220240.lua"
   }
 ]
