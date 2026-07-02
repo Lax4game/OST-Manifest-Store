@@ -476,5 +476,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1782561846",
     "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/4704690.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 10,
+    "name": "Counter-Strike",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10/header.jpg?t=1745368572",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/10.lua",
+    "manifestUrls": []
   }
 ]
