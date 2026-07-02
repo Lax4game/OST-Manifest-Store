@@ -1,5 +1,12 @@
 [
   {
+    "appId": 1598730,
+    "name": "Shanhe",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1598730/header.jpg",
+    "luaUrl": "/lua/1598730.lua",
+    "manifestUrls": []
+  },
+  {
     "appId": 1360810,
     "name": "Office Life",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360810/header.jpg",
