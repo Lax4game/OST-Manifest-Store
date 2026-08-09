@@ -1015,5 +1015,11 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1785426429",
     "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3722330.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 2381590,
+    "name": "not available",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381590/header.jpg?t=1694110307",
+    "lua": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2381590.lua"
   }
 ]
