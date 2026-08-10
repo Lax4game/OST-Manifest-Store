@@ -7,13 +7,6 @@
     "manifestUrls": []
   },
   {
-    "appId": 2381590,
-    "name": "Only UP!",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2381590/header.jpg?t=1694110307",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2381590.lua",
-    "manifestUrls": []
-  },
-  {
     "appId": 243470,
     "name": "Watch_Dogs™",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243470/header.jpg?t=1739177057",
