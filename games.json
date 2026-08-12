@@ -1338,5 +1338,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1515330/header.jpg?t=1774489144",
     "luaUrl": "/lua/1515330.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1508750,
+    "name": "Xuan-Yuan Sword: Dance of the Maple Leaves",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1508750/header.jpg?t=1728457582",
+    "luaUrl": "/lua/1508750.lua",
+    "manifestUrls": []
   }
 ]
