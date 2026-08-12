@@ -11,448 +11,448 @@
     "appId": 1598730,
     "name": "Shanhe",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1598730/header.jpg",
-    "luaUrl": "/lua/1598730.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1598730.lua",
     "manifestUrls": []
   },
   {
     "appId": 1360810,
     "name": "Office Life",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1360810/header.jpg",
-    "luaUrl": "/lua/1360810.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1360810.lua",
     "manifestUrls": []
   },
   {
     "appId": 830580,
     "name": "BattleBeasts",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/830580/header.jpg",
-    "luaUrl": "/lua/830580.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/830580.lua",
     "manifestUrls": []
   },
   {
     "appId": 2143680,
     "name": "Noctuary",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2143680/header.jpg",
-    "luaUrl": "/lua/2143680.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2143680.lua",
     "manifestUrls": []
   },
   {
     "appId": 1934080,
     "name": "Floating Life2",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934080/header.jpg",
-    "luaUrl": "/lua/1934080.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1934080.lua",
     "manifestUrls": []
   },
   {
     "appId": 1732430,
     "name": "Neighbors: Suburban Warfare",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1732430/header.jpg",
-    "luaUrl": "/lua/1732430.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1732430.lua",
     "manifestUrls": []
   },
   {
     "appId": 1508740,
     "name": "Xuan-Yuan Sword 2",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1508740/header.jpg",
-    "luaUrl": "/lua/1508740.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1508740.lua",
     "manifestUrls": []
   },
   {
     "appId": 1638220,
     "name": "Xuan-Yuan Sword: The Scar of Sky",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1638220/header.jpg",
-    "luaUrl": "/lua/1638220.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1638220.lua",
     "manifestUrls": []
   },
   {
     "appId": 1072190,
     "name": "Crossfire: Legion",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072190/header.jpg",
-    "luaUrl": "/lua/1072190.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1072190.lua",
     "manifestUrls": []
   },
   {
     "appId": 1687530,
     "name": "Elder Ring",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687530/header.jpg",
-    "luaUrl": "/lua/1687530.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1687530.lua",
     "manifestUrls": []
   },
   {
     "appId": 2878420,
     "name": "Old Market Simulator",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878420/header.jpg",
-    "luaUrl": "/lua/2878420.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2878420.lua",
     "manifestUrls": []
   },
   {
     "appId": 2597080,
     "name": "Realm of Ink",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597080/header.jpg",
-    "luaUrl": "/lua/2597080.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2597080.lua",
     "manifestUrls": []
   },
   {
     "appId": 2513280,
     "name": "SONIC X SHADOW GENERATIONS",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg",
-    "luaUrl": "/lua/2513280.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2513280.lua",
     "manifestUrls": []
   },
   {
     "appId": 1874000,
     "name": "Life is Strange: Double Exposure",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874000/header.jpg",
-    "luaUrl": "/lua/1874000.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1874000.lua",
     "manifestUrls": []
   },
   {
     "appId": 1858630,
     "name": "SWORD ART ONLINE Fractured Daydream",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1858630/header.jpg",
-    "luaUrl": "/lua/1858630.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1858630.lua",
     "manifestUrls": []
   },
   {
     "appId": 530950,
     "name": "Tower 57",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/530950/header.jpg",
-    "luaUrl": "/lua/530950.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/530950.lua",
     "manifestUrls": []
   },
   {
     "appId": 1634860,
     "name": "Minishoot' Adventures",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1634860/header.jpg",
-    "luaUrl": "/lua/1634860.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1634860.lua",
     "manifestUrls": []
   },
   {
     "appId": 2758000,
     "name": "Vanity Fair: The Pursuit",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2758000/header.jpg",
-    "luaUrl": "/lua/2758000.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2758000.lua",
     "manifestUrls": []
   },
   {
     "appId": 1407450,
     "name": "The World of Kungfu: Dragon and Eagle",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407450/header.jpg",
-    "luaUrl": "/lua/1407450.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1407450.lua",
     "manifestUrls": []
   },
   {
     "appId": 1201270,
     "name": "A Space for the Unbound",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1201270/header.jpg",
-    "luaUrl": "/lua/1201270.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1201270.lua",
     "manifestUrls": []
   },
   {
     "appId": 1175460,
     "name": "Revita",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1175460/header.jpg",
-    "luaUrl": "/lua/1175460.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1175460.lua",
     "manifestUrls": []
   },
   {
     "appId": 1115780,
     "name": "The Almost Gone",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1115780/header.jpg",
-    "luaUrl": "/lua/1115780.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1115780.lua",
     "manifestUrls": []
   },
   {
     "appId": 801480,
     "name": "Agent A: A puzzle in disguise",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801480/header.jpg",
-    "luaUrl": "/lua/801480.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/801480.lua",
     "manifestUrls": []
   },
   {
     "appId": 2786680,
     "name": "Knowledge, or know Lady",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2786680/header.jpg",
-    "luaUrl": "/lua/2786680.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2786680.lua",
     "manifestUrls": []
   },
   {
     "appId": 2677660,
     "name": "Indiana Jones and the Great Circle",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2677660/header.jpg",
-    "luaUrl": "/lua/2677660.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2677660.lua",
     "manifestUrls": []
   },
   {
     "appId": 1937500,
     "name": "Let's School",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1937500/header.jpg",
-    "luaUrl": "/lua/1937500.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1937500.lua",
     "manifestUrls": []
   },
   {
     "appId": 1610440,
     "name": "Minds Beneath Us",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1610440/header.jpg",
-    "luaUrl": "/lua/1610440.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1610440.lua",
     "manifestUrls": []
   },
   {
     "appId": 1361510,
     "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361510/header.jpg",
-    "luaUrl": "/lua/1361510.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1361510.lua",
     "manifestUrls": []
   },
   {
     "appId": 1098293,
     "name": "DOOM Eternal: The Ancient Gods - Part Two",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1098293/header.jpg",
-    "luaUrl": "/lua/1098293.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1098293.lua",
     "manifestUrls": []
   },
   {
     "appId": 1016600,
     "name": "Devil Slayer - Raksasi",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016600/header.jpg",
-    "luaUrl": "/lua/1016600.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1016600.lua",
     "manifestUrls": []
   },
   {
     "appId": 2495450,
     "name": "Winter Memories",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495450/header.jpg",
-    "luaUrl": "/lua/2495450.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2495450.lua",
     "manifestUrls": []
   },
   {
     "appId": 2457220,
     "name": "Avowed",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/header.jpg",
-    "luaUrl": "/lua/2457220.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2457220.lua",
     "manifestUrls": []
   },
   {
     "appId": 2273430,
     "name": "BlazBlue Entropy Effect",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2273430/header.jpg",
-    "luaUrl": "/lua/2273430.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2273430.lua",
     "manifestUrls": []
   },
   {
     "appId": 2162800,
     "name": "shapez 2 - Factory",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162800/header.jpg",
-    "luaUrl": "/lua/2162800.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2162800.lua",
     "manifestUrls": []
   },
   {
     "appId": 2095300,
     "name": "Breakout 13",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095300/header.jpg",
-    "luaUrl": "/lua/2095300.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2095300.lua",
     "manifestUrls": []
   },
   {
     "appId": 1948980,
     "name": "Hero's Adventure: Road to Passion",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1948980/header.jpg",
-    "luaUrl": "/lua/1948980.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1948980.lua",
     "manifestUrls": []
   },
   {
     "appId": 1822030,
     "name": "The Library of Babel",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1822030/header.jpg",
-    "luaUrl": "/lua/1822030.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1822030.lua",
     "manifestUrls": []
   },
   {
     "appId": 1368030,
     "name": "ANNO: Mutationem",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368030/header.jpg",
-    "luaUrl": "/lua/1368030.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1368030.lua",
     "manifestUrls": []
   },
   {
     "appId": 1296610,
     "name": "Peglin",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296610/header.jpg",
-    "luaUrl": "/lua/1296610.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1296610.lua",
     "manifestUrls": []
   },
   {
     "appId": 1071870,
     "name": "Biped",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1071870/header.jpg",
-    "luaUrl": "/lua/1071870.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1071870.lua",
     "manifestUrls": []
   },
   {
     "appId": 418500,
     "name": "Rising Storm 2: Vietnam",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418500/header.jpg",
-    "luaUrl": "/lua/418500.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/418500.lua",
     "manifestUrls": []
   },
   {
     "appId": 382310,
     "name": "Eco",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382310/header.jpg",
-    "luaUrl": "/lua/382310.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/382310.lua",
     "manifestUrls": []
   },
   {
     "appId": 2440510,
     "name": "Forza Motorsport",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2440510/header.jpg",
-    "luaUrl": "/lua/2440510.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2440510.lua",
     "manifestUrls": []
   },
   {
     "appId": 2427700,
     "name": "Backpack Battles",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427700/header.jpg",
-    "luaUrl": "/lua/2427700.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2427700.lua",
     "manifestUrls": []
   },
   {
     "appId": 2124490,
     "name": "SILENT HILL 2",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2124490/header.jpg",
-    "luaUrl": "/lua/2124490.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2124490.lua",
     "manifestUrls": []
   },
   {
     "appId": 1601580,
     "name": "Frostpunk 2",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601580/header.jpg",
-    "luaUrl": "/lua/1601580.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1601580.lua",
     "manifestUrls": []
   },
   {
     "appId": 1295660,
     "name": "Sid Meier's Civilization VII",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg",
-    "luaUrl": "/lua/1295660.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1295660.lua",
     "manifestUrls": []
   },
   {
     "appId": 851100,
     "name": "Touhou Luna Nights",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851100/header.jpg",
-    "luaUrl": "/lua/851100.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/851100.lua",
     "manifestUrls": []
   },
   {
     "appId": 736190,
     "name": "Chinese Parents",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736190/header.jpg",
-    "luaUrl": "/lua/736190.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/736190.lua",
     "manifestUrls": []
   },
   {
     "appId": 420530,
     "name": "OneShot",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420530/header.jpg",
-    "luaUrl": "/lua/420530.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/420530.lua",
     "manifestUrls": []
   },
   {
     "appId": 336390,
     "name": "System Shock 2 (1999)",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336390/header.jpg",
-    "luaUrl": "/lua/336390.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/336390.lua",
     "manifestUrls": []
   },
   {
     "appId": 223850,
     "name": "3DMark",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223850/header.jpg",
-    "luaUrl": "/lua/223850.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/223850.lua",
     "manifestUrls": []
   },
   {
     "appId": 2322560,
     "name": "Love Is All Around",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322560/header.jpg",
-    "luaUrl": "/lua/2322560.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2322560.lua",
     "manifestUrls": []
   },
   {
     "appId": 2183900,
     "name": "Warhammer 40,000: Space Marine 2",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg",
-    "luaUrl": "/lua/2183900.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2183900.lua",
     "manifestUrls": []
   },
   {
     "appId": 1790600,
     "name": "DRAGON BALL: Sparking! ZERO",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg",
-    "luaUrl": "/lua/1790600.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1790600.lua",
     "manifestUrls": []
   },
   {
     "appId": 1483870,
     "name": "Draw & Guess",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1483870/header.jpg",
-    "luaUrl": "/lua/1483870.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1483870.lua",
     "manifestUrls": []
   },
   {
     "appId": 1468810,
     "name": "鬼谷八荒 Tale of Immortal",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468810/header.jpg",
-    "luaUrl": "/lua/1468810.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1468810.lua",
     "manifestUrls": []
   },
   {
     "appId": 1260320,
     "name": "Party Animals",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1260320/header.jpg",
-    "luaUrl": "/lua/1260320.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1260320.lua",
     "manifestUrls": []
   },
   {
     "appId": 993090,
     "name": "Lossless Scaling",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/header.jpg",
-    "luaUrl": "/lua/993090.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/993090.lua",
     "manifestUrls": []
   },
   {
     "appId": 838350,
     "name": "The Scroll of Taiwu : Beyond The Dome",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/header.jpg",
-    "luaUrl": "/lua/838350.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/838350.lua",
     "manifestUrls": []
   },
   {
     "appId": 632360,
     "name": "Risk of Rain 2",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg",
-    "luaUrl": "/lua/632360.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/632360.lua",
     "manifestUrls": []
   },
   {
     "appId": 621060,
     "name": "PC Building Simulator",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621060/header.jpg",
-    "luaUrl": "/lua/621060.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/621060.lua",
     "manifestUrls": []
   },
   {
     "appId": 322330,
     "name": "Don't Starve Together",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322330/header.jpg",
-    "luaUrl": "/lua/322330.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/322330.lua",
     "manifestUrls": []
   },
   {
     "appId": 204360,
     "name": "Castle Crashers",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204360/header.jpg",
-    "luaUrl": "/lua/204360.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/204360.lua",
     "manifestUrls": []
   },
   {
@@ -930,182 +930,182 @@
     "appId": 3907510,
     "name": "PIONER Playtest",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907510/d48c8b11ea0ef9765c8523000058163e1580a45b/header.jpg?t=1768460704",
-    "luaUrl": "/lua/3907510.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3907510.lua",
     "manifestUrls": []
   },
   {
     "appId": 3885680,
     "name": "你的另一个老婆 Playtest",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3885680/6f8118fe3a0ed9a34ba9eecd04a882073dc80785/header.jpg?t=1755710437",
-    "luaUrl": "/lua/3885680.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3885680.lua",
     "manifestUrls": []
   },
   {
     "appId": 3823470,
     "name": "Eggo Playtest",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3823470/f3666178f44eeb0f48439bda3bf703e841b2b334/header.jpg?t=1751592415",
-    "luaUrl": "/lua/3823470.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3823470.lua",
     "manifestUrls": []
   },
   {
     "appId": 3656800,
     "name": "Train Sim World® 6",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3656800/ea750f90cc32c79a12a471b1e67fcc57e23173f9/header.jpg?t=1785938614",
-    "luaUrl": "/lua/3656800.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3656800.lua",
     "manifestUrls": []
   },
   {
     "appId": 3234700,
     "name": "Break Siege",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234700/header.jpg?t=1768056884",
-    "luaUrl": "/lua/3234700.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3234700.lua",
     "manifestUrls": []
   },
   {
     "appId": 3062040,
     "name": "Hot Rod Mayhem",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3062040/header.jpg?t=1753363430",
-    "luaUrl": "/lua/3062040.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3062040.lua",
     "manifestUrls": []
   },
   {
     "appId": 3051470,
     "name": "Kaya's Prophecy",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3051470/8efbc5e1278bee36070e5a61ae8cd69ff6ddbea6/header.jpg?t=1785492020",
-    "luaUrl": "/lua/3051470.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3051470.lua",
     "manifestUrls": []
   },
   {
     "appId": 3036010,
     "name": "Coin Push RPG",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3036010/181928c99334a7b40dd435e9a701cb927cfd6df0/header.jpg?t=1773392771",
-    "luaUrl": "/lua/3036010.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3036010.lua",
     "manifestUrls": []
   },
   {
     "appId": 2921670,
     "name": "Cultivation Realm: Card Survival",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2921670/5d4d08aa1e6abc3de23ae773490beb7efe051dfe/header.jpg?t=1781256050",
-    "luaUrl": "/lua/2921670.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2921670.lua",
     "manifestUrls": []
   },
   {
     "appId": 2832900,
     "name": "Indiana Jones and the Great Circle - Digital Artbook",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832900/header.jpg?t=1734472448",
-    "luaUrl": "/lua/2832900.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2832900.lua",
     "manifestUrls": []
   },
   {
     "appId": 2804290,
     "name": "英雄竞起:三国",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2804290/header.jpg?t=1744170192",
-    "luaUrl": "/lua/2804290.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2804290.lua",
     "manifestUrls": []
   },
   {
     "appId": 2776940,
     "name": "Echoes of Yi : Samsara",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/header.jpg?t=1745489112",
-    "luaUrl": "/lua/2776940.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2776940.lua",
     "manifestUrls": []
   },
   {
     "appId": 2725610,
     "name": "Haunted Bloodlines",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2725610/708e33b8e2ff6b941f13e7bad7dfd54912ad9acb/header.jpg?t=1784924412",
-    "luaUrl": "/lua/2725610.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2725610.lua",
     "manifestUrls": []
   },
   {
     "appId": 2669440,
     "name": "元卡牌2 - MetaCard2",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669440/header.jpg?t=1777549475",
-    "luaUrl": "/lua/2669440.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2669440.lua",
     "manifestUrls": []
   },
   {
     "appId": 2570190,
     "name": "PlayM2M Limited Access",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2570190/header.jpg?t=1750286692",
-    "luaUrl": "/lua/2570190.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2570190.lua",
     "manifestUrls": []
   },
   {
     "appId": 2543510,
     "name": "GUNTOUCHABLES",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543510/e27c2729a08364e82860ec4d9a68ab168055968b/header.jpg?t=1772628586",
-    "luaUrl": "/lua/2543510.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2543510.lua",
     "manifestUrls": []
   },
   {
     "appId": 2453840,
     "name": "Dark Quest 4",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453840/header.jpg?t=1766179713",
-    "luaUrl": "/lua/2453840.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2453840.lua",
     "manifestUrls": []
   },
   {
     "appId": 2451310,
     "name": "Monster Mop Up",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451310/9dcdcaf19c41c65a961897ca15c0d6a4ac09c354/header.jpg?t=1785491888",
-    "luaUrl": "/lua/2451310.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2451310.lua",
     "manifestUrls": []
   },
   {
     "appId": 2419670,
     "name": "Eclipsium",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2419670/a71202a445d1998bedee5e1ef5c5f8835d3e2e5d/header.jpg?t=1777045076",
-    "luaUrl": "/lua/2419670.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2419670.lua",
     "manifestUrls": []
   },
   {
     "appId": 2397250,
     "name": "Big Helmet Heroes",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397250/header.jpg?t=1744895598",
-    "luaUrl": "/lua/2397250.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2397250.lua",
     "manifestUrls": []
   },
   {
     "appId": 2287330,
     "name": "Empire of the Ants",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2287330/header.jpg?t=1776352325",
-    "luaUrl": "/lua/2287330.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2287330.lua",
     "manifestUrls": []
   },
   {
     "appId": 2285550,
     "name": "Doloc Town",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285550/6c2919e6f64b0efa4976b0bfc4864893508da68a/header_alt_assets_1.jpg?t=1786499293",
-    "luaUrl": "/lua/2285550.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2285550.lua",
     "manifestUrls": []
   },
   {
     "appId": 2270590,
     "name": "《蜀山：初章》网络版",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2270590/header.jpg?t=1688985790",
-    "luaUrl": "/lua/2270590.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2270590.lua",
     "manifestUrls": []
   },
   {
     "appId": 2220350,
     "name": "I commissioned some bees (advent)",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2220350/header.jpg?t=1761713282",
-    "luaUrl": "/lua/2220350.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2220350.lua",
     "manifestUrls": []
   },
   {
     "appId": 2171630,
     "name": "Return from Core",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171630/b25552cf9b1f32d11f3b935f9c06f878be7c2302/header.jpg?t=1773972974",
-    "luaUrl": "/lua/2171630.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2171630.lua",
     "manifestUrls": []
   },
   {
     "appId": 2159370,
     "name": "Click For Points",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2159370/header.jpg?t=1779235100",
-    "luaUrl": "/lua/2159370.lua",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2159370.lua",
     "manifestUrls": []
   }
 ]
