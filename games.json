@@ -1380,5 +1380,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/header.jpg?t=1778173468",
     "luaUrl": "/lua/1351000.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1325860,
+    "name": "VTube Studio",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/header.jpg?t=1750309780",
+    "luaUrl": "/lua/1325860.lua",
+    "manifestUrls": []
   }
 ]
