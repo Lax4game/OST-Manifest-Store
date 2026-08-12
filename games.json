@@ -1114,5 +1114,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2101960/68fa7b72da253c498b70cf74e475b4f5f4ac79eb/header.jpg?t=1777385995",
     "luaUrl": "/lua/2101960.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 2095950,
+    "name": "PAC-MAN Mega Tunnel Battle: Chomp Champs",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2095950/header.jpg?t=1762016230",
+    "luaUrl": "/lua/2095950.lua",
+    "manifestUrls": []
   }
 ]
