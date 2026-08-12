@@ -1009,5 +1009,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2776940/header.jpg?t=1745489112",
     "luaUrl": "/lua/2776940.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 2725610,
+    "name": "Haunted Bloodlines",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2725610/708e33b8e2ff6b941f13e7bad7dfd54912ad9acb/header.jpg?t=1784924412",
+    "luaUrl": "/lua/2725610.lua",
+    "manifestUrls": []
   }
 ]
