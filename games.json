@@ -1065,5 +1065,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2397250/header.jpg?t=1744895598",
     "luaUrl": "/lua/2397250.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 2287330,
+    "name": "Empire of the Ants",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2287330/header.jpg?t=1776352325",
+    "luaUrl": "/lua/2287330.lua",
+    "manifestUrls": []
   }
 ]
