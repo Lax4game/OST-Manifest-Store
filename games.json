@@ -1373,5 +1373,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1357860/header.jpg?t=1775434657",
     "luaUrl": "/lua/1357860.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1351000,
+    "name": "Gangs of Sherwood",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351000/header.jpg?t=1778173468",
+    "luaUrl": "/lua/1351000.lua",
+    "manifestUrls": []
   }
 ]
