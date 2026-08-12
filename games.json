@@ -1247,5 +1247,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1710870/header.jpg?t=1782217616",
     "luaUrl": "/lua/1710870.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1699390,
+    "name": "Roxy Raccoon",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1699390/header.jpg?t=1745730857",
+    "luaUrl": "/lua/1699390.lua",
+    "manifestUrls": []
   }
 ]
