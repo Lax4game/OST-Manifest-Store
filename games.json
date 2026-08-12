@@ -1226,5 +1226,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807450/99d01338045b69b87c4d69605a452ab1a3817ed9/header.jpg?t=1763020275",
     "luaUrl": "/lua/1807450.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1784650,
+    "name": "BOSS FIGHTERS",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1784650/header.jpg?t=1748606435",
+    "luaUrl": "/lua/1784650.lua",
+    "manifestUrls": []
   }
 ]
