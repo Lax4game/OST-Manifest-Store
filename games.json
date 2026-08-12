@@ -1170,5 +1170,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934570/56f64e713504dd2558077d038eb7470c8689a559/header.jpg?t=1786471572",
     "luaUrl": "/lua/1934570.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1874660,
+    "name": "浮生箓 Floating Life",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1874660/header.jpg?t=1673611282",
+    "luaUrl": "/lua/1874660.lua",
+    "manifestUrls": []
   }
 ]
