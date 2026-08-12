@@ -1,61 +1,5 @@
 [
   {
-    "appId": 2562240,
-    "name": "Only Up!",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2562240/header.jpg?t=1767686251",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2562240.lua",
-    "manifestUrls": []
-  },
-  {
-    "appId": 243470,
-    "name": "Watch_Dogs™",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243470/header.jpg?t=1739177057",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/243470.lua",
-    "manifestUrls": []
-  },
-  {
-    "appId": 298110,
-    "name": "Far Cry 4",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/header.jpg",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/298110.lua",
-    "manifestUrls": []
-  },
-  {
-    "appId": 3472040,
-    "name": "NBA 2K26",
-    "cover": "http://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3472040/f7e126add75c3b09779b44cd349be93d31b0a80b/header.jpg?t=1786115051",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3472040.lua",
-    "manifestUrls": []
-  },
-  {
-    "appId": 3021100,
-    "name": "Five Hearts Under One Roof",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3021100/header.jpg?t=1778486226",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3021100.lua",
-    "manifestUrls": []
-  },
-  {
-    "appId": 3240220,
-    "name": "Grand Theft Auto V Enhanced",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3240220.lua",
-    "manifestUrls": []
-  },
-  {
-    "appId": 1030300,
-    "name": "Hollow Knight: Silksong",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1030300/7983574d464e6559ac7e24275727f73a8bcca1f3/header.jpg?t=1776125736",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/1030300.lua",
-    "manifestUrls": []
-  },
-  {
-    "appId": 3768760,
-    "name": "007 First Light",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/dbe86ebd2edb4c77d113e9e2feefeb90189fabc9/header.jpg?t=1782807423",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3768760.lua",
-    "manifestUrls": []
-  },
-  {
     "appId": 1598730,
     "name": "Shanhe",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1598730/header.jpg",
@@ -949,7 +893,7 @@
   {
     "appId": 431960,
     "name": "Wallpaper Engine",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
     "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/431960.lua",
     "manifestUrls": []
   },
@@ -982,31 +926,17 @@
     "manifestUrls": []
   },
   {
-    "appId": 220240,
-    "name": "Far Cry 3",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220240/3848aafeb6e5cff40cbf6210c34413f3034150da/header.jpg?t=1781619366",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/220240.lua",
+    "appId": 3907510,
+    "name": "PIONER Playtest",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3907510/d48c8b11ea0ef9765c8523000058163e1580a45b/header.jpg?t=1768460704",
+    "luaUrl": "/lua/3907510.lua",
     "manifestUrls": []
   },
   {
-    "appId": 2399830,
-    "name": "ARK: Survival Ascended",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2399830/d934813ca531af0fce69fe36bc972f1c90d1aa19/header.jpg?t=1779293241",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/2399830.lua",
-    "manifestUrls": []
-  },
-  {
-    "appId": 12110,
-    "name": "Grand Theft Auto: Vice City",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12110/header.jpg?t=1634144465",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/12110.lua",
-    "manifestUrls": []
-  },
-  {
-    "appId": 3722330,
-    "name": "Shift At Midnight",
-    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1785426429",
-    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3722330.lua",
+    "appId": 3885680,
+    "name": "你的另一个老婆 Playtest",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3885680/6f8118fe3a0ed9a34ba9eecd04a882073dc80785/header.jpg?t=1755710437",
+    "luaUrl": "/lua/3885680.lua",
     "manifestUrls": []
   }
 ]
