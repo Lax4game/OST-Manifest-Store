@@ -1667,5 +1667,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/589240/header.jpg?t=1510565394",
     "luaUrl": "/lua/589240.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 567630,
+    "name": "Blood of Steel",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567630/40bbcb8552c64178dc4667562ea177b189c577c2/header.jpg?t=1778466579",
+    "luaUrl": "/lua/567630.lua",
+    "manifestUrls": []
   }
 ]
