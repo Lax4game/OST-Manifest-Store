@@ -1856,5 +1856,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090620/4e3dcaff22e756f396149eabd6e9214c5ff161df/header.jpg?t=1785855594",
     "luaUrl": "/lua/3090620.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 2932150,
+    "name": "Life Below",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932150/cec5b5d65b729157864f7286eb668059f4b35027/header.jpg?t=1779873738",
+    "luaUrl": "/lua/2932150.lua",
+    "manifestUrls": []
   }
 ]
