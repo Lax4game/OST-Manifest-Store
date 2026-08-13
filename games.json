@@ -1709,5 +1709,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495480/header.jpg?t=1681446840",
     "luaUrl": "/lua/495480.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 490840,
+    "name": "Gnomes & Goblins (preview)",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490840/header.jpg?t=1524161663",
+    "luaUrl": "/lua/490840.lua",
+    "manifestUrls": []
   }
 ]
