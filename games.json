@@ -1730,5 +1730,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435410/6b9276ff22d875db631c25cc8d1f3112f2a06fa5/header.jpg?t=1769753948",
     "luaUrl": "/lua/435410.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 427030,
+    "name": "Xuan-Yuan Sword: The Gate of Firmament",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427030/header.jpg?t=1728970889",
+    "luaUrl": "/lua/427030.lua",
+    "manifestUrls": []
   }
 ]
