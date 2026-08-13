@@ -1842,5 +1842,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3391130/cab4f9c26e406ca3270a6d2eab16012d4d748463/header.jpg?t=1784400938",
     "luaUrl": "/lua/3391130.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 3266730,
+    "name": "No Alibi",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3266730/header.jpg?t=1743536405",
+    "luaUrl": "/lua/3266730.lua",
+    "manifestUrls": []
   }
 ]
