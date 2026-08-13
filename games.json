@@ -1387,5 +1387,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/header.jpg?t=1750309780",
     "luaUrl": "/lua/1325860.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1247860,
+    "name": "藏梦 Hidden Dream",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1247860/header.jpg?t=1663926287",
+    "luaUrl": "/lua/1247860.lua",
+    "manifestUrls": []
   }
 ]
