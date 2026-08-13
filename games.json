@@ -1485,5 +1485,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974090/header.jpg?t=1586734224",
     "luaUrl": "/lua/974090.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 973600,
+    "name": "Movavi Video Suite 18 - Video Making Software - Edit, Convert, Capture Screen, and more",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/973600/header.jpg?t=1693912289",
+    "luaUrl": "/lua/973600.lua",
+    "manifestUrls": []
   }
 ]
