@@ -1905,5 +1905,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459560/78e0f0beb699a1d56df8716ace505a176244dab2/header.jpg?t=1785589888",
     "luaUrl": "/lua/2459560.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 2336820,
+    "name": "Oni Academy",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336820/header.jpg?t=1707944041",
+    "luaUrl": "/lua/2336820.lua",
+    "manifestUrls": []
   }
 ]
