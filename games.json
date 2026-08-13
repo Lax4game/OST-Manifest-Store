@@ -1583,5 +1583,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/795630/header.jpg?t=1703524119",
     "luaUrl": "/lua/795630.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 782300,
+    "name": "Unstoppable Hamster",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/782300/header.jpg?t=1720879153",
+    "luaUrl": "/lua/782300.lua",
+    "manifestUrls": []
   }
 ]
