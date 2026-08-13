@@ -1562,5 +1562,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/header.jpg?t=1765239925",
     "luaUrl": "/lua/849200.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 835560,
+    "name": "Ancient Rush 2",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/835560/header.jpg?t=1639426655",
+    "luaUrl": "/lua/835560.lua",
+    "manifestUrls": []
   }
 ]
