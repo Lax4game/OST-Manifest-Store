@@ -2206,5 +2206,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949130/header.jpg?t=1568495257",
     "luaUrl": "/lua/949130.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 947500,
+    "name": "ColonyShip-4: Survivors",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/947500/header.jpg?t=1598922399",
+    "luaUrl": "/lua/947500.lua",
+    "manifestUrls": []
   }
 ]
