@@ -2367,5 +2367,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/819460/header.jpg?t=1524750522",
     "luaUrl": "/lua/819460.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 819440,
+    "name": "HAMMER WORLD: DIMENSION TRAVELER",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/819440/header.jpg?t=1566228465",
+    "luaUrl": "/lua/819440.lua",
+    "manifestUrls": []
   }
 ]
