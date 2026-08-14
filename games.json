@@ -2353,5 +2353,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/848840/header.jpg?t=1572451759",
     "luaUrl": "/lua/848840.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 845660,
+    "name": "Super Versus",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/845660/header.jpg?t=1573039366",
+    "luaUrl": "/lua/845660.lua",
+    "manifestUrls": []
   }
 ]
