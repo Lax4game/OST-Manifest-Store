@@ -2423,5 +2423,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/669270/header.jpg?t=1775065525",
     "luaUrl": "/lua/669270.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 578100,
+    "name": "Meowter Space",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578100/header.jpg?t=1707766396",
+    "luaUrl": "/lua/578100.lua",
+    "manifestUrls": []
   }
 ]
