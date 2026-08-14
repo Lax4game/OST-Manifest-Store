@@ -2290,5 +2290,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/889680/header.jpg?t=1534982884",
     "luaUrl": "/lua/889680.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 886890,
+    "name": "IndustrySim Virtual Platform",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886890/header.jpg?t=1614168736",
+    "luaUrl": "/lua/886890.lua",
+    "manifestUrls": []
   }
 ]
