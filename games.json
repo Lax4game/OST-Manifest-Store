@@ -2297,5 +2297,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886890/header.jpg?t=1614168736",
     "luaUrl": "/lua/886890.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 882440,
+    "name": "Rusty Tank Survival",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882440/b5c066d25c4a44396c736682a9b7024588e54b75/header.jpg?t=1765098021",
+    "luaUrl": "/lua/882440.lua",
+    "manifestUrls": []
   }
 ]
