@@ -2094,5 +2094,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1094620/header.jpg?t=1560779144",
     "luaUrl": "/lua/1094620.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1066390,
+    "name": "Chernobyl 1986",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1066390/header.jpg?t=1764080144",
+    "luaUrl": "/lua/1066390.lua",
+    "manifestUrls": []
   }
 ]
