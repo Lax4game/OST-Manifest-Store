@@ -2402,5 +2402,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/804540/header.jpg?t=1522363113",
     "luaUrl": "/lua/804540.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 803140,
+    "name": "Battle Carnival",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803140/header.jpg?t=1550796714",
+    "luaUrl": "/lua/803140.lua",
+    "manifestUrls": []
   }
 ]
