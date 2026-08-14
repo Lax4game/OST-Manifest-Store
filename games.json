@@ -1989,5 +1989,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1949610/4088d99f0f4f917bfde9ecbb1e79a594329f0297/header.jpg?t=1786237811",
     "luaUrl": "/lua/1949610.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1924470,
+    "name": "Cursed Dungeon Raider",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924470/3d2e73ba1c85a7a560454028f64daa30b2137e0e/header.jpg?t=1785269481",
+    "luaUrl": "/lua/1924470.lua",
+    "manifestUrls": []
   }
 ]
