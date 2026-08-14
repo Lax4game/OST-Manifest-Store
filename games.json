@@ -1961,5 +1961,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065370/header.jpg",
     "luaUrl": "/lua/2065370.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 2065360,
+    "name": "Trading_Cards_Explainer_2022",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2065360/header.jpg",
+    "luaUrl": "/lua/2065360.lua",
+    "manifestUrls": []
   }
 ]
