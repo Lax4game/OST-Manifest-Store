@@ -1996,5 +1996,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1924470/3d2e73ba1c85a7a560454028f64daa30b2137e0e/header.jpg?t=1785269481",
     "luaUrl": "/lua/1924470.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1909510,
+    "name": "Univers 11: Under the Sky",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1909510/header.jpg?t=1660560194",
+    "luaUrl": "/lua/1909510.lua",
+    "manifestUrls": []
   }
 ]
