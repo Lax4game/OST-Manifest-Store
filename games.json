@@ -2199,5 +2199,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954310/header.jpg?t=1721830127",
     "luaUrl": "/lua/954310.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 949130,
+    "name": "Draco's Misfortune",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/949130/header.jpg?t=1568495257",
+    "luaUrl": "/lua/949130.lua",
+    "manifestUrls": []
   }
 ]
