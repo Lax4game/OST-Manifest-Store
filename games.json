@@ -2129,5 +2129,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1034580/header.jpg?t=1613424070",
     "luaUrl": "/lua/1034580.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 1025690,
+    "name": "Dance Reality",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1025690/header.jpg?t=1560555238",
+    "luaUrl": "/lua/1025690.lua",
+    "manifestUrls": []
   }
 ]
