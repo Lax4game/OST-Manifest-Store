@@ -2311,5 +2311,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/873480/header.jpg?t=1585342891",
     "luaUrl": "/lua/873480.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 869730,
+    "name": "Duncade",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/869730/header.jpg?t=1707233562",
+    "luaUrl": "/lua/869730.lua",
+    "manifestUrls": []
   }
 ]
