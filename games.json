@@ -2458,5 +2458,12 @@
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236870/header.jpg?t=1768906497",
     "luaUrl": "/lua/440970.lua",
     "manifestUrls": []
+  },
+  {
+    "appId": 314580,
+    "name": "Saints Row IV: Game of the Century Edition",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/314580/header.jpg?t=1684278782",
+    "luaUrl": "/lua/314580.lua",
+    "manifestUrls": []
   }
 ]
