@@ -1,5 +1,13 @@
 [
   {
+    "appId": 3527290,
+    "name": "PEAK",
+    "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
+    "luaUrl": "https://raw.githubusercontent.com/Lax4game/OST-Manifest-Store/main/lua/3527290.lua",
+    "manifestUrls": [],
+    "createdAt": "2026-08-19T07:52:01.261Z"
+  },
+  {
     "appId": 2322010,
     "name": "God of War Ragnarök",
     "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
